@@ -4,6 +4,7 @@ tag:#ready
 ```
 - [[Mutable Slice]]
 - [[Slice]]
+- [[Spec]]
 - [[λ calculus]]
 
 

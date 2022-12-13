@@ -146,15 +146,15 @@
   },
   "active": "2dd23ca9df6fdcdf",
   "lastOpenFiles": [
+    "Update.Markdown.Dashboards.and.Git.Push.md",
+    "index.md",
+    "Jot/Jot.md",
     "λSystem/README.md",
     "λSystem/SKI calculus.md",
     "λSystem/Spec.md",
     "λSystem/λs as numbers.md",
-    "index.md",
     "λ-calculus/λ calculus.md",
     "λ-calculus/Evaluation.md",
-    "λ-calculus/Church numeral.md",
-    "λ-calculus/Debrujin Indices.md",
-    "λ-calculus/Properties/λ depth.md"
+    "λ-calculus/Church numeral.md"
   ]
 }
