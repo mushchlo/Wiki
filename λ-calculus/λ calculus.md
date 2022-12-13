@@ -4,3 +4,4 @@
 List
 From "λ-calculus/Properties"
 ```
+#ready

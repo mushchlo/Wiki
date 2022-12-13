@@ -3,7 +3,7 @@
   "defaultTemplate": "- $link",
   "delay": 300,
   "excludeCurrent": true,
-  "lineEnding": "<-->",
+  "lineEnding": "",
   "prefixes": {
     "header": "^",
     "footer": ">"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "λSystem/λs as numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "λSystem/λs as numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "λSystem/λs as numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "λSystem/λs as numbers.md"
               }
             }
           }
@@ -147,15 +146,15 @@
   },
   "active": "2dd23ca9df6fdcdf",
   "lastOpenFiles": [
-    "λSystem/λs as numbers.md",
     "index.md",
-    "Update.Markdown.Dashboards.and.Git.Push.md",
-    "λSystem/SKI calculus.md",
-    "λSystem/Bootstrapping.md",
-    "λSystem/Counting the functions.md",
-    "λSystem/E-Graph λ-Encoding.md",
-    "λSystem/Cosmopolitan support chart.md",
+    "λ-calculus/λ calculus.md",
     "λ-calculus/Evaluation.md",
-    "λ-calculus/λ calculus.md"
+    "λ-calculus/Church numeral.md",
+    "λ-calculus/Debrujin Indices.md",
+    "λ-calculus/Properties/λ depth.md",
+    "λ-calculus/Properties/Constancy.md",
+    "Jot/Jot.md",
+    "Jot/Properties/Size.md",
+    "Definitions/Slice.md"
   ]
 }

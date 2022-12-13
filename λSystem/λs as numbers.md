@@ -69,8 +69,6 @@ We use the language [Jot](https://esolangs.org/wiki/Jot) to encode programs as b
 To encode a number n as a (numeric) bitstring:
 $bitstring(n) = a + 1$
 
-Because right-shifting a numeric bitstring by one (diving it by two) and adding one gives the tail of a bitstring, this can be very fast.
-
 $$\begin{align}
 tail(0) &= 0\\
 tail(n) &= \{\\
