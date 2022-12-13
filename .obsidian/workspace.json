@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,11 @@
   },
   "active": "2dd23ca9df6fdcdf",
   "lastOpenFiles": [
+    "λSystem/SKI calculus.md",
+    "Jot/Jot.md",
     "Update.Markdown.Dashboards.and.Git.Push.md",
     "index.md",
-    "Jot/Jot.md",
     "λSystem/README.md",
-    "λSystem/SKI calculus.md",
     "λSystem/Spec.md",
     "λSystem/λs as numbers.md",
     "λ-calculus/λ calculus.md",

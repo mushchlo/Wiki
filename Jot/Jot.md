@@ -7,8 +7,10 @@ It can be represented in Haskell as the type `[bool]`, or as `[bool]` in rust.
 It can also be represented [[../λSystem/λs as numbers |as a binary number of arbitrary size]], which is the encoding utilized by [[../λSystem/README|λSystem]].
 
 # Properties of a program:
-```query
+```expander
 "Jot/Properties"
 ```
+
+
 
 #stub
