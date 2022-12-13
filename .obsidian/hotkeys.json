@@ -26,5 +26,24 @@
       ],
       "key": "U"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:commit-staged-specified-message": [],
+  "obsidian-git:commit-staged": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
