@@ -1,6 +1,6 @@
 # You're probably here to see
 
-[[README]]
+[[λSystem]]
 
 # The following notes in this wiki are ready for viewing:
 ```expander

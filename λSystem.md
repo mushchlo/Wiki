@@ -1,5 +1,5 @@
 # Huh?
-This is an exploratory programming language / OS for my own curiosity. It came together after a realization that [[Jot|Jot]] would make for a relatively easy way of encoding lambdas as numbers, described at [[λs as numbers]].
+This is an exploratory programming language / OS for my own curiosity. It came together after a realization that [[Jot]] would make for a relatively easy way of encoding lambdas as numbers, described at [[λs as numbers]].
 
 # Why?
 Well it's cool! Basically, this gives you one simple system that simultaneously does the following:
