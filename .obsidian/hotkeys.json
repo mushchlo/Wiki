@@ -18,15 +18,6 @@
       "key": "T"
     }
   ],
-  "templater-obsidian:Update.Markdown.Dashboards.and.Git.Push.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "U"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -37,7 +28,17 @@
     }
   ],
   "obsidian-git:commit-staged-specified-message": [],
-  "obsidian-git:commit-staged": [
+  "obsidian-git:commit-staged": [],
+  "templater-obsidian:Update.Markdown.Dashboards.and.Git.Push.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod",
