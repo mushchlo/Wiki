@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jot/Jot.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jot/Jot.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jot/Jot.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jot/Jot.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,15 +144,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2dd23ca9df6fdcdf",
+  "active": "d7e1a4b6c7b63fd9",
   "lastOpenFiles": [
-    "λSystem/SKI calculus.md",
+    "λSystem/λs as numbers.md",
     "Jot/Jot.md",
+    "λSystem/SKI calculus.md",
     "Update.Markdown.Dashboards.and.Git.Push.md",
     "index.md",
     "λSystem/README.md",
     "λSystem/Spec.md",
-    "λSystem/λs as numbers.md",
     "λ-calculus/λ calculus.md",
     "λ-calculus/Evaluation.md",
     "λ-calculus/Church numeral.md"

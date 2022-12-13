@@ -8,9 +8,8 @@ It can also be represented [[../λSystem/λs as numbers |as a binary number of a
 
 # Properties of a program:
 ```expander
-"Jot/Properties"
+path:Jot/Properties
 ```
-
-
+- [[Size]]
 
 #stub
