@@ -1,0 +1,30 @@
+{
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "table-editor-obsidian:format-all-tables": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:Update.Markdown.Dashboards.and.Git.Push.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ]
+}
