@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "λSystem/λs as numbers.md",
+                "file": "λSystem/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "λSystem/λs as numbers.md",
+                "file": "λSystem/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "λSystem/λs as numbers.md",
+                "file": "λSystem/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "λSystem/λs as numbers.md"
+                "file": "λSystem/README.md"
               }
             }
           }
@@ -146,15 +146,15 @@
   },
   "active": "2dd23ca9df6fdcdf",
   "lastOpenFiles": [
+    "λSystem/SKI calculus.md",
+    "λSystem/Spec.md",
+    "λSystem/λs as numbers.md",
     "index.md",
     "λ-calculus/λ calculus.md",
     "λ-calculus/Evaluation.md",
     "λ-calculus/Church numeral.md",
     "λ-calculus/Debrujin Indices.md",
     "λ-calculus/Properties/λ depth.md",
-    "λ-calculus/Properties/Constancy.md",
-    "Jot/Jot.md",
-    "Jot/Properties/Size.md",
-    "Definitions/Slice.md"
+    "λ-calculus/Properties/Constancy.md"
   ]
 }

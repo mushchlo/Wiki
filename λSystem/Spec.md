@@ -13,3 +13,5 @@ This system is a general-purpose, 64-bit VM written in the untyped [[λ calculus
 
 
 #todo
+
+#ready 
