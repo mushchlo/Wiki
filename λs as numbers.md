@@ -63,7 +63,7 @@ Therefore, to make any 64-bit number (*of constant size*, this ISNT a variable l
 
 
 ## Encoding of functions
-We use the language [Jot](https://esolangs.org/wiki/Jot) to encode programs as bitstrings, which allows for, in combination with the encoding above, a natural numeric encoding of abitrary programs written in [[../Jot/Jot|Jot]], or equivalently [[SKI calculus]], or equivalently [[../λ-calculus/λ calculus|λ calculus]].
+We use the language [Jot](https://esolangs.org/wiki/Jot) to encode programs as bitstrings, which allows for, in combination with the encoding above, a natural numeric encoding of abitrary programs written in [[Jot|Jot]], or equivalently [[SKI calculus]], or equivalently [[λ calculus|λ calculus]].
 
 # Algorithms
 To encode a number n as a (numeric) bitstring:

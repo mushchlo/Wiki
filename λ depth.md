@@ -7,7 +7,7 @@ $O(n)$ with no parallelism.
 $O(n/t)$ with $t$ threads
 
 # Expressions possible to create with N bits
-These are written using [[Debrujin Indices]]
+These are written using [[../../Debrujin Indices]]
 
 ## N = 0
 | Desired numeric representation | λ-Expression | # in depth |

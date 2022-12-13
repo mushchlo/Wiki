@@ -1,4 +1,4 @@
-A [[../λ calculus|λ calculus]] expression is "constant" if, when it [[../Evaluation|is evaluated]], it remains the same.
+A [[../../λ calculus|λ calculus]] expression is "constant" if, when it [[../../Evaluation|is evaluated]], it remains the same.
 
 Obviously, an expression with no applications is constant, so the programs $I = \lambda 0$, $K = \lambda \lambda 1$, and even $S = \lambda \lambda \lambda ((2 \space 0) \space (1 0))$ are all constant.
 

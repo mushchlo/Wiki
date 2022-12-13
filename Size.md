@@ -7,7 +7,7 @@ size \space b:B &= lzcnt(num \space (b:B))
 
 The function $num$ gives you the numeric representation of a bitstring, which is as follows.
 
-(using [[../../λSystem/λs as numbers |λs as numbers]])
+(using [[../../λs as numbers |λs as numbers]])
 $$\begin{align}\\
 num \space [] &= 0\\
 num \space (bit:B) &= (bit << 1) + 1 + num(B)

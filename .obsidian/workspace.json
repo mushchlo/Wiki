@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c5257b73040767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jot.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Size.md"
               }
             }
           }
@@ -144,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7e1a4b6c7b63fd9",
+  "active": "2dd23ca9df6fdcdf",
   "lastOpenFiles": [
-    "λSystem/λs as numbers.md",
-    "Jot/Jot.md",
-    "λSystem/SKI calculus.md",
-    "Update.Markdown.Dashboards.and.Git.Push.md",
+    "Spec.md",
+    "Jot.md",
     "index.md",
-    "λSystem/README.md",
-    "λSystem/Spec.md",
-    "λ-calculus/λ calculus.md",
-    "λ-calculus/Evaluation.md",
-    "λ-calculus/Church numeral.md"
+    "Size.md",
+    "λ depth.md",
+    "λ calculus.md",
+    "Cosmopolitan support chart.md",
+    "λs as numbers.md",
+    "Slice.md",
+    "Mutable Slice.md"
   ]
 }

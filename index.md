@@ -1,3 +1,7 @@
+# You're probably here to see
+
+[[README]]
+
 # The following notes in this wiki are ready for viewing:
 ```expander
 tag:#ready
