@@ -1,7 +1,6 @@
 # The following notes in this wiki are ready for viewing:
-```dataview
-List
-From !#todo
+```query
+tag:#todo
 ```
 
 # The following notes in this wiki are pretty empty, and could be expanded upon.
