@@ -9,7 +9,7 @@ Well it's cool! Basically, this gives you one simple system that simultaneously 
  - Highly expressive AST despite it's size
 
 # Background
-This project is based on an encoding of [[λ calculus]] called [Blc](), which was made by John Tromp
+This project is based on an encoding of [[λ calculus]] called [Blc](https://tromp.github.io/cl/Binary_lambda_calculus.html), which was made by John Tromp
  - `Binary Lambda Calculus and Combinatory Logic, in Randomness And Complexity, from Leibniz To Chaitin_, ed. Cristian S. Calude, World Scientific Publishing Company, October 2008, pages 237-260 (The last reference, to an initial Haskell implementation, is dated 2004)` [(pdf version)](http://tromp.github.io/cl/LC.pdf)
 If you have not seen this before, it would be helpful to familiarize yourself with it.
 

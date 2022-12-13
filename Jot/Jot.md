@@ -1,3 +1,5 @@
+This programming language is 
+
 Any source code matching the regular expression `(0|1)*` is a valid Jot program, including the null program.
 
 It can be represented in Haskell as the type `[bool]`, or as `[bool]` in rust.
