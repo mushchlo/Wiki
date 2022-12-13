@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "λSystem/SKI calculus.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "λSystem/SKI calculus.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "λSystem/SKI calculus.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "λSystem/SKI calculus.md"
+                "file": "index.md"
               }
             }
           }
@@ -159,15 +159,15 @@
   },
   "active": "d8ff48a4fb23c0eb",
   "lastOpenFiles": [
+    "Update.Markdown.Dashboards.and.Git.Push.md",
+    "λSystem/SKI calculus.md",
     "λSystem/Bootstrapping.md",
     "index.md",
-    "Update.Markdown.Dashboards.and.Git.Push.md",
     "λSystem/λs as numbers.md",
     "λSystem/Counting the functions.md",
     "λSystem/E-Graph λ-Encoding.md",
     "λSystem/Cosmopolitan support chart.md",
     "λ-calculus/Evaluation.md",
-    "λ-calculus/λ calculus.md",
-    "λ-calculus/Properties/λ depth.md"
+    "λ-calculus/λ calculus.md"
   ]
 }
